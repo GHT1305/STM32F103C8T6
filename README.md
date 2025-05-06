@@ -17,5 +17,5 @@
 - Finally, download the code in the folder and upload to your STM32!
 
 ### Final results:
-Video demo: https://youtu.be/TyeZGw_vNq4
+Watch video demo: https://youtu.be/TyeZGw_vNq4
 ![image](https://github.com/user-attachments/assets/88b5ed36-c0b0-455f-82a1-5d2971ad86b3)

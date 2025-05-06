@@ -2,7 +2,7 @@
 
 ## Make a digital desktop clock using STM32!
 
-Here's what you need:
+### Here's what you need:
 - STM32F103C8T8 Blue Pill
 - LCD 16x2 (with I2C module)
 - IR Sensor

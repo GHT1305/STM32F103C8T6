@@ -8,6 +8,10 @@ Here's what you need:
 - IR Sensor
 - LM35 (temperature sensor)
 
+### Installation
+- Download STM32CubeIDE: https://www.st.com/en/development-tools/stm32cubeide.html
+- Download STLink: https://www.st.com/en/development-tools/stsw-link004.html
+
 Full code is in the folder :)
 
 ### Final results:
